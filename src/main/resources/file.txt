@@ -1,0 +1,4 @@
+1,John,Doe,johndoe,password,true
+2,Jane,Smith,janesmith,password,true
+3,Bob,Johnson,bobjohnson,password,false
+4,Mary,Johnson,maryjohnson,password,false
